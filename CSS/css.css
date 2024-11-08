@@ -1,0 +1,86 @@
+body {
+
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+
+header{
+
+background-color: hsl(337, 67%, 71%);
+color:  hsl(0, 0%, 100%);
+padding: 10px;
+text-align: center;
+
+}
+
+nav{
+
+background: color hsl(337, 67%, 71%);
+color:  hsl(337, 55%, 54%);
+padding: 10px;
+text-align: center;
+
+nav {
+
+color: #ffffff;
+text-decoration: none;
+margin: 0 10px;
+
+
+}
+
+
+}
+
+section{
+
+padding: 50px;
+text-align: center;
+
+}
+
+footer{
+
+background-color: hsl(337, 67%, 71%);
+color: hsl(337, 55%, 54%);
+text-align: center;
+position: fixed;
+bottom: 0;
+width: 100%;
+
+}
+
+/* Custom scrollbar styles */
+::-webkit-scrollbar {
+    width: 30px; /* width of the entire scrollbar */
+    }
+    
+    ::-webkit-scrollbar-track {
+    background: #f1f1f1; /* color of the tracking area */
+    }
+    
+    ::-webkit-scrollbar-thumb {
+    background: hsl(337, 67%, 71%); /* color of the scroll thumb */
+    }
+    
+    ::-webkit-scrollbar-thumb:hover {
+    background: #ff008c; /* color of the scroll thumb on hover */
+    }
+
+    body {
+        background-color: rgb(255, 209, 237);
+        color: rgb(110, 32, 80);
+      }
+      
+      h1 {
+        background-color: rgb(255, 209, 237);
+        color: rgb(110, 32, 80);
+      }
+      
+      div {
+        background-color: rgb(255, 255, 255);
+        color: rgb(0, 0, 0);
+      }
+      
+    
